@@ -1,1 +1,1 @@
-This directory is for out created images 
+This directory is for our created images 
